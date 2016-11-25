@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\github-source\\FingerprintDialog\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\github-source\\FingerprintDialog\\Application\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\zhangzhenzhong\\Desktop\\FingerprintDialog\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\zhangzhenzhong\\Desktop\\FingerprintDialog\\Application\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }

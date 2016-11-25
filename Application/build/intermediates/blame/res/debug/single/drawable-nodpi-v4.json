@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\github-source\\FingerprintDialog\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\android_robot.png",
+        "source": "D:\\github-source\\FingerprintDialog\\Application\\src\\main\\res\\drawable-nodpi\\android_robot.png"
+    },
+    {
         "merged": "C:\\Users\\zhangzhenzhong\\Desktop\\FingerprintDialog\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\android_robot.png",
         "source": "C:\\Users\\zhangzhenzhong\\Desktop\\FingerprintDialog\\Application\\src\\main\\res\\drawable-nodpi\\android_robot.png"
     }

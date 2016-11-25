@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\zhangzhenzhong\\Desktop\\FingerprintDialog\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
         "source": "C:\\Users\\zhangzhenzhong\\Desktop\\FingerprintDialog\\Application\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\github-source\\FingerprintDialog\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\github-source\\FingerprintDialog\\Application\\src\\main\\res\\xml\\preferences.xml"
     }
 ]

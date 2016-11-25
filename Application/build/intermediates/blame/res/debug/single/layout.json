@@ -4,8 +4,20 @@
         "source": "C:\\Users\\zhangzhenzhong\\Desktop\\FingerprintDialog\\Application\\src\\main\\res\\layout\\fingerprint_dialog_backup.xml"
     },
     {
+        "merged": "D:\\github-source\\FingerprintDialog\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fingerprint_dialog_backup.xml",
+        "source": "D:\\github-source\\FingerprintDialog\\Application\\src\\main\\res\\layout\\fingerprint_dialog_backup.xml"
+    },
+    {
         "merged": "C:\\Users\\zhangzhenzhong\\Desktop\\FingerprintDialog\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fingerprint_dialog_container.xml",
         "source": "C:\\Users\\zhangzhenzhong\\Desktop\\FingerprintDialog\\Application\\src\\main\\res\\layout\\fingerprint_dialog_container.xml"
+    },
+    {
+        "merged": "D:\\github-source\\FingerprintDialog\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fingerprint_dialog_content.xml",
+        "source": "D:\\github-source\\FingerprintDialog\\Application\\src\\main\\res\\layout\\fingerprint_dialog_content.xml"
+    },
+    {
+        "merged": "D:\\github-source\\FingerprintDialog\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\github-source\\FingerprintDialog\\Application\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\zhangzhenzhong\\Desktop\\FingerprintDialog\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fingerprint_dialog_content.xml",
@@ -14,5 +26,9 @@
     {
         "merged": "C:\\Users\\zhangzhenzhong\\Desktop\\FingerprintDialog\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Users\\zhangzhenzhong\\Desktop\\FingerprintDialog\\Application\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\github-source\\FingerprintDialog\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fingerprint_dialog_container.xml",
+        "source": "D:\\github-source\\FingerprintDialog\\Application\\src\\main\\res\\layout\\fingerprint_dialog_container.xml"
     }
 ]
