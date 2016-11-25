@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\zhangzhenzhong\\Desktop\\FingerprintDialog\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\card.xml",
+        "source": "C:\\Users\\zhangzhenzhong\\Desktop\\FingerprintDialog\\Application\\src\\main\\res\\drawable\\card.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangzhenzhong\\Desktop\\FingerprintDialog\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fingerprint_success.xml",
+        "source": "C:\\Users\\zhangzhenzhong\\Desktop\\FingerprintDialog\\Application\\src\\main\\res\\drawable\\ic_fingerprint_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangzhenzhong\\Desktop\\FingerprintDialog\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fingerprint_error.xml",
+        "source": "C:\\Users\\zhangzhenzhong\\Desktop\\FingerprintDialog\\Application\\src\\main\\res\\drawable\\ic_fingerprint_error.xml"
+    }
+]
